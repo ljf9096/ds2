@@ -1,3 +1,4 @@
+工作流为min，名字为ivti
 # 自动获取酒店源  组播源 #
 ## 不再依赖chrome浏览器及fofa等网站，windows系统可直接运行itvall.exe文件，大概45分钟。 ##
 ## 增加ZHGXTV的相关,ZHGXTV.exe可以在windows直接运行。 ##
